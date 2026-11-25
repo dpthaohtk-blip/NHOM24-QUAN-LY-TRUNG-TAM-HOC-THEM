@@ -1,0 +1,12 @@
+# Frontend
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <title>Quản lý Trung tâm Học thêm</title>
+</head>
+<body>
+  <h1>Quản lý Trung tâm Học thêm</h1>
+  <p>Khởi tạo cấu trúc Frontend thành công (Sprint 0).</p>
+</body>
+</html>
